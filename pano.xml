@@ -116,6 +116,8 @@
       <polyhotspot title="" url="{node19}" description="발자국" id="Poly12" target="$fwd">
         <polystring>-34.74/27.07|-35.1/-41.3|-59.79/-52.74|-59.13/37.71</polystring>
       </polyhotspot>
+      <hotspot tilt="-25.66" target="_blank" pan="-273.37" title="" url="" description="" id="Point01" skinid="인덕션"/>
+      <hotspot tilt="-10.83" target="_blank" pan="-267.29" title="" url="" description="" id="Point02" skinid="ht_url"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -177,6 +179,8 @@
       <polyhotspot title="" url="{node19}" description="발자국" id="Poly12" target="$fwd">
         <polystring>-59.27/17.62|-59.5/-28.57|-76.31/-31.64|-76.54/19.92</polystring>
       </polyhotspot>
+      <hotspot tilt="-27.5" target="_blank" pan="-262.55" title="" url="" description="" id="Point01" skinid="인덕션"/>
+      <hotspot tilt="-54.34" target="_blank" pan="-279.3" title="" url="" description="" id="Point02" skinid="세탁기"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -363,6 +367,7 @@
         <polystring>-242.18/-25.63|-227.49/-35.19|-247.12/-41.33|-263.65/-68.82|-321.32/-55.34|-288.07/-27</polystring>
       </polyhotspot>
       <hotspot tilt="-50.45" target="_blank" pan="-327.77" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="26.69" target="_blank" pan="-326.36" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -425,6 +430,7 @@
         <polystring>-111.88/18.97|-111.91/-30.21|-130.21/-26.22|-130.06/16</polystring>
       </polyhotspot>
       <hotspot tilt="-45.3" target="_blank" pan="-26.41" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="31.06" target="_blank" pan="-8.28" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -481,6 +487,7 @@
         <polystring>-325.06/-53.35|-222.43/-57.45|-135.45/-47.11|-47.09/-48.52</polystring>
       </polyhotspot>
       <hotspot tilt="-61.01" target="_blank" pan="-231.26" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="44.09" target="_blank" pan="-280.25" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -537,6 +544,7 @@
         <polystring>-32.98/-54.44|-143.8/-57.16|-243.42/-43.91|-303.45/-42.19</polystring>
       </polyhotspot>
       <hotspot tilt="-62.89" target="_blank" pan="-131.63" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="75.15" target="_blank" pan="-59.86" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -596,6 +604,7 @@
         <polystring>-84.78/26.58|-84.46/-40.5|-116.97/-37.63|-116.78/24.26</polystring>
       </polyhotspot>
       <hotspot tilt="-33.59" target="_blank" pan="-1.57" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="20.15" target="_blank" pan="-352.4" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -818,6 +827,7 @@
         <polystring>-265.86/-13.49|-265.01/-16.64|-271.28/-16.65|-271.18/-13.34</polystring>
       </polyhotspot>
       <hotspot tilt="-27.87" target="_blank" pan="-344.43" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="24.85" target="_blank" pan="-343.37" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -880,6 +890,8 @@
         <polystring>-273.1/-36.91|-264.24/-42.97|-228.49/-61.41|-275.21/-67.7</polystring>
       </polyhotspot>
       <hotspot tilt="-26.23" target="_blank" pan="-18.57" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="24.98" target="_blank" pan="-16.93" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="0.72" target="_blank" pan="-37.25" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -939,6 +951,8 @@
         <polystring>-215.7/-10.06|-218.29/-10.74|-221.32/-10.04|-221.46/-15.35|-215.41/-12.32</polystring>
       </polyhotspot>
       <hotspot tilt="-61.37" target="_blank" pan="-286.14" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="58.56" target="_blank" pan="-279.64" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="2.06" target="_blank" pan="-66.04" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -989,6 +1003,8 @@
         <polystring>-192.03/13.54|-192.43/-22.22|-195.61/-28.31|-195.66/18.26</polystring>
       </polyhotspot>
       <hotspot tilt="-62.03" target="_blank" pan="-97.51" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="61.02" target="_blank" pan="-78.66" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="3.08" target="_blank" pan="-79.51" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -1051,6 +1067,8 @@
         <polystring>-221.82/-18.56|-217.06/-20.93|-216.98/-14.43</polystring>
       </polyhotspot>
       <hotspot tilt="-48.71" target="_blank" pan="-357.84" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="40.54" target="_blank" pan="-360" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="0.55" target="_blank" pan="-41.05" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -1216,7 +1234,7 @@
       <polyhotspot title="" url="{node38}" description="발자국" id="Poly12" target="$fwd">
         <polystring>-34.74/27.07|-35.1/-41.3|-59.79/-52.74|-59.13/37.71</polystring>
       </polyhotspot>
-      <hotspot tilt="-17.71" target="_blank" pan="-266.04" title="" url="" description="" id="Point01" skinid="인덕션"/>
+      <hotspot tilt="-25.46" target="_blank" pan="-273.13" title="" url="" description="" id="Point01" skinid="인덕션"/>
       <hotspot tilt="-10.83" target="_blank" pan="-267.29" title="" url="" description="" id="Point02" skinid="ht_url"/>
     </hotspots>
     <media/>
@@ -1280,7 +1298,7 @@
         <polystring>-59.27/17.62|-59.5/-28.57|-76.31/-31.64|-76.54/19.92</polystring>
       </polyhotspot>
       <hotspot tilt="-27.5" target="_blank" pan="-262.55" title="" url="" description="" id="Point01" skinid="인덕션"/>
-      <hotspot tilt="-42.13" target="_blank" pan="-257.85" title="" url="" description="" id="Point02" skinid="세탁기"/>
+      <hotspot tilt="-54.42" target="_blank" pan="-278.62" title="" url="" description="" id="Point02" skinid="세탁기"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -1787,6 +1805,8 @@
       <polyhotspot title="" url="{node36}" description="발자국" id="Poly07" target="$fwd">
         <polystring>-340.21/-18.92|-347.64/-15.65|-348.66/-13.98|-339.98/-13.29</polystring>
       </polyhotspot>
+      <hotspot tilt="-3.49" target="_blank" pan="-196.69" title="" url="" description="" id="Point01" skinid=" 푯말-빌트인"/>
+      <hotspot tilt="9.19" target="_blank" pan="-144.64" title="" url="" description="" id="Point02" skinid=" 푯말-붙박이"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -1978,6 +1998,7 @@
         <polystring>-273.1/-36.91|-264.24/-42.97|-228.49/-61.41|-275.21/-67.7</polystring>
       </polyhotspot>
       <hotspot tilt="24.98" target="_blank" pan="-16.93" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="0.72" target="_blank" pan="-37.25" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2037,6 +2058,7 @@
         <polystring>-215.7/-10.06|-218.29/-10.74|-221.32/-10.04|-221.46/-15.35|-215.41/-12.32</polystring>
       </polyhotspot>
       <hotspot tilt="58.56" target="_blank" pan="-279.64" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="2.88" target="_blank" pan="-58.23" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2087,6 +2109,7 @@
         <polystring>-192.03/13.54|-192.43/-22.22|-195.61/-28.31|-195.66/18.26</polystring>
       </polyhotspot>
       <hotspot tilt="61.02" target="_blank" pan="-78.66" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="3.05" target="_blank" pan="-78.36" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2149,6 +2172,7 @@
         <polystring>-221.82/-18.56|-217.06/-20.93|-216.98/-14.43</polystring>
       </polyhotspot>
       <hotspot tilt="40.54" target="_blank" pan="-360" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="-0.54" target="_blank" pan="-40.2" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2299,8 +2323,8 @@
       <polyhotspot title="" url="{node46}" description="발자국" id="Poly10" target="$fwd">
         <polystring>-9.93/-12.76|-10.21/-14.05|-14.33/-15.27|-14.32/-12.33</polystring>
       </polyhotspot>
-      <hotspot tilt="-27.17" target="_blank" pan="-256.48" title="" url="" description="" id="Point01" skinid="인덕션"/>
-      <hotspot tilt="-40.27" target="_blank" pan="-241.2" title="" url="" description="" id="Point02" skinid="세탁기"/>
+      <hotspot tilt="-28.18" target="_blank" pan="-253.26" title="" url="" description="" id="Point01" skinid="인덕션"/>
+      <hotspot tilt="-52.42" target="_blank" pan="-260.51" title="" url="" description="" id="Point02" skinid="세탁기"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2360,8 +2384,8 @@
         <polystring>-12.28/-15.13|-12.93/-17.37|-26.17/-20.81|-26.4/-15.99|-23.55/-14.1</polystring>
       </polyhotspot>
       <hotspot tilt="-18.78" target="_blank" pan="-13.43" title="" url="" description="" id="Point01" skinid="치수선보기"/>
-      <hotspot tilt="-14.72" target="_blank" pan="-212.33" title="" url="" description="" id="Point02" skinid="인덕션"/>
-      <hotspot tilt="-20.82" target="_blank" pan="-205.96" title="" url="" description="" id="Point03" skinid="세탁기"/>
+      <hotspot tilt="-14.57" target="_blank" pan="-213.74" title="" url="" description="" id="Point02" skinid="인덕션"/>
+      <hotspot tilt="-34.36" target="_blank" pan="-210.53" title="" url="" description="" id="Point03" skinid="세탁기"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2526,6 +2550,7 @@
       </polyhotspot>
       <hotspot tilt="-28.74" target="_blank" pan="-343.54" title="" url="" description="" id="Point01" skinid="치수선보기"/>
       <hotspot tilt="22.08" target="_blank" pan="-338.99" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="-0.25" target="_blank" pan="-318.64" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2580,6 +2605,7 @@
       </polyhotspot>
       <hotspot tilt="-65.99" target="_blank" pan="-77.92" title="" url="" description="" id="Point01" skinid="치수선보기"/>
       <hotspot tilt="62.46" target="_blank" pan="-60.53" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="5.51" target="_blank" pan="-299.88" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2631,6 +2657,7 @@
       </polyhotspot>
       <hotspot tilt="-63.91" target="_blank" pan="-289.05" title="" url="" description="" id="Point01" skinid="치수선보기"/>
       <hotspot tilt="48.64" target="_blank" pan="-287.31" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="1.12" target="_blank" pan="-284.34" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -2685,6 +2712,7 @@
       </polyhotspot>
       <hotspot tilt="-47.88" target="$fwd" pan="-2.19999" title="" url="" description="" id="치수선보기" skinid="치수선보기"/>
       <hotspot tilt="37.52" target="_blank" pan="-352.08" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="1.4" target="_blank" pan="-315.17" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3067,6 +3095,7 @@
         <polystring>-222.91/-22.77|-223.24/-44.95|-240.03/-52.6|-254.87/-31.64|-254.1/-30.49</polystring>
       </polyhotspot>
       <hotspot tilt="22.03" target="_blank" pan="-339.11" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="-0.25" target="_blank" pan="-318.64" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3120,6 +3149,7 @@
         <polystring>-65.77/-32.13|-34.6/-51.35|-98.67/-65.7|-129.32/-37.04|-121.48/-30.35</polystring>
       </polyhotspot>
       <hotspot tilt="61.49" target="_blank" pan="-60.07" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="5.51" target="_blank" pan="-299.88" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3170,6 +3200,7 @@
         <polystring>-197.75/-12.7|-197.22/-13.03|-197.37/-15.06|-203.44/-13.8|-201.92/-13|-200.24/-13.22|-199.43/-12.61</polystring>
       </polyhotspot>
       <hotspot tilt="48.6" target="_blank" pan="-288.26" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="1.12" target="_blank" pan="-284.34" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3223,6 +3254,7 @@
         <polystring>-192.67/8.07|-192.48/-13.13|-195.66/-15.72|-187.69/-16.14|-187.55/-13.52|-187.78/8.47</polystring>
       </polyhotspot>
       <hotspot tilt="36.94" target="_blank" pan="-352.09" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="1.4" target="_blank" pan="-315.17" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3371,6 +3403,8 @@
         <polystring>-69.22/39.9|-69.12/-54.61|-114.73/-53.88|-114.86/39.37</polystring>
       </polyhotspot>
       <hotspot tilt="-17.12" target="_blank" pan="-351.08" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="-25.84" target="_blank" pan="-273.97" title="" url="" description="" id="Point02" skinid="세탁기"/>
+      <hotspot tilt="-11.65" target="_blank" pan="-267.22" title="" url="" description="" id="Point03" skinid="인덕션"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3385,7 +3419,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="67.013" projection="4" tilt="-2.57785" fov="136.926"/>
+      <start pan="112.405" projection="4" tilt="-28.2172" fov="136.926"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -3432,6 +3466,8 @@
       <polyhotspot title="" url="{node77}" description="발자국" id="Poly12" target="$fwd">
         <polystring>-81.12/20.09|-81.21/-31.96|-101.52/-31.88|-100.88/19.88</polystring>
       </polyhotspot>
+      <hotspot tilt="-25.55" target="_blank" pan="-262.68" title="" url="" description="" id="Point01" skinid="인덕션"/>
+      <hotspot tilt="-54.57" target="_blank" pan="-282.11" title="" url="" description="" id="Point02" skinid="세탁기"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3565,6 +3601,8 @@
         <polystring>-52.79/16.07|-53.05/-26.39|-72.34/-31.27|-72.65/19.12</polystring>
       </polyhotspot>
       <hotspot tilt="-21.51" target="_blank" pan="-9.98" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="-31.77" target="_blank" pan="-206.25" title="" url="" description="" id="Point02" skinid="세탁기"/>
+      <hotspot tilt="-12.58" target="_blank" pan="-206.88" title="" url="" description="" id="Point03" skinid="인덕션"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3627,6 +3665,7 @@
         <polystring>-164.7/13.17|-164.32/-22.75|-167.17/-18.63|-166.94/11.27</polystring>
       </polyhotspot>
       <hotspot tilt="-41.89" target="_blank" pan="-335.47" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="26.75" target="_blank" pan="-320.85" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3692,6 +3731,7 @@
         <polystring>-100.51/19.69|-100.38/-31.81|-121.35/-28.32|-121.71/17.62</polystring>
       </polyhotspot>
       <hotspot tilt="-39.72" target="_blank" pan="-18.84" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="32.76" target="_blank" pan="-1.93" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3754,6 +3794,7 @@
         <polystring>-334.04/-55.53|-46.41/-48.05|-141.72/-43.53|-176.8/-64.08|-219.49/-59.48</polystring>
       </polyhotspot>
       <hotspot tilt="-69.65" target="_blank" pan="-252.15" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="39.7" target="_blank" pan="-276.57" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3816,6 +3857,7 @@
         <polystring>-154.73/9.15|-154.96/-14.87|-158.08/-13.53|-158.02/7.76</polystring>
       </polyhotspot>
       <hotspot tilt="-63.04" target="_blank" pan="-57.54" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="83.35" target="_blank" pan="-24.71" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -3878,6 +3920,7 @@
         <polystring>-143.21/16.41|-143.22/-27.17|-151.55/-22.36|-150.97/13.51</polystring>
       </polyhotspot>
       <hotspot tilt="-32.23" target="_blank" pan="-357.06" title="" url="" description="" id="Point01" skinid="치수선보기"/>
+      <hotspot tilt="20.54" target="_blank" pan="-347.98" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4028,6 +4071,7 @@
         <polystring>-284.7/-12.83|-284.63/-19.07|-295.23/-16.81|-295.56/-11.74</polystring>
       </polyhotspot>
       <hotspot tilt="-0.33" target="_blank" pan="-133.44" title="" url="" description="" id="Point01" skinid="치수선보기-드레스룸"/>
+      <hotspot tilt="20.55" target="_blank" pan="-343.97" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4081,6 +4125,7 @@
         <polystring>-248.84/20.51|-250.46/-29.46|-273.82/-33.82|-273.81/21.64</polystring>
       </polyhotspot>
       <hotspot tilt="-30.16" target="_blank" pan="-342.14" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="28.9" target="_blank" pan="-340.85" title="" url="" description="" id="Point02" skinid="에어컨1"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4143,6 +4188,8 @@
         <polystring>-279.21/-27.92|-251.73/-37.91|-226.4/-49.97|-217.22/-54.24|-284.19/-66.08|-279.19/-58.47</polystring>
       </polyhotspot>
       <hotspot tilt="-29.91" target="_blank" pan="-21.35" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="28.34" target="_blank" pan="-21.04" title="" url="" description="" id="Point02" skinid="세탁기"/>
+      <hotspot tilt="-3.63" target="_blank" pan="-42.04" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4196,6 +4243,8 @@
         <polystring>-216.97/13.38|-216.9/-21.57|-228.48/-26.71|-228.29/16.59</polystring>
       </polyhotspot>
       <hotspot tilt="-62.22" target="_blank" pan="-294.23" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="60.28" target="_blank" pan="-279.71" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="7.42" target="_blank" pan="-59.7" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4245,6 +4294,8 @@
       <polyhotspot title="" url="{node72}" description="발자국" id="Poly08" target="$fwd">
         <polystring>-157.67/-23.88|-165.56/-24.63|-163.12/-29.75|-124.92/-34.59|-116.61/-23.39|-136.13/-18.67|-146.68/-24.06</polystring>
       </polyhotspot>
+      <hotspot tilt="57.79" target="_blank" pan="-84.41" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="-1.41" target="_blank" pan="-79.16" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -4298,6 +4349,8 @@
         <polystring>-216.89/19.97|-217.38/-31.02|-237.39/-41.38|-236.83/27.74</polystring>
       </polyhotspot>
       <hotspot tilt="-52.54" target="_blank" pan="-2.39" title="" url="" description="" id="Point01" skinid="치수선보기-침실"/>
+      <hotspot tilt="46.74" target="_blank" pan="-1.5" title="" url="" description="" id="Point02" skinid="에어컨1"/>
+      <hotspot tilt="0.29" target="_blank" pan="-45.8" title="" url="" description="" id="Point03" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5011,6 +5064,7 @@
       <polyhotspot title="" url="{node94}" description="발자국" id="Poly07" target="$fwd">
         <polystring>-348.19/-12.86|-348.17/-14.4|-350.16/-14.42|-350.68/-12.99|-349.43/-13.34</polystring>
       </polyhotspot>
+      <hotspot tilt="5.25" target="_blank" pan="-51.84" title="" url="" description="" id="Point01" skinid=" 푯말-붙박이"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5057,6 +5111,7 @@
       <polyhotspot title="" url="{node94}" description="발자국" id="Poly07" target="$fwd">
         <polystring>-347.83/-15.63|-347.01/-18.1|-337.3/-20.48|-337.6/-14.81</polystring>
       </polyhotspot>
+      <hotspot tilt="6.4" target="_blank" pan="-100.34" title="" url="" description="" id="Point01" skinid=" 푯말-붙박이"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5113,6 +5168,7 @@
         <polystring>-284.7/-12.83|-284.63/-19.07|-295.23/-16.81|-295.56/-11.74</polystring>
       </polyhotspot>
       <hotspot tilt="20.55" target="_blank" pan="-343.97" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="0.11" target="_blank" pan="-150.57" title="" url="" description="" id="Point02" skinid=" 푯말-붙박이"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5228,6 +5284,7 @@
         <polystring>-279.21/-27.92|-251.73/-37.91|-226.4/-49.97|-217.22/-54.24|-284.19/-66.08|-279.19/-58.47</polystring>
       </polyhotspot>
       <hotspot tilt="28.34" target="_blank" pan="-21.04" title="" url="" description="" id="Point01" skinid="세탁기"/>
+      <hotspot tilt="-3.63" target="_blank" pan="-42.04" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5281,6 +5338,7 @@
         <polystring>-216.97/13.38|-216.9/-21.57|-228.48/-26.71|-228.29/16.59</polystring>
       </polyhotspot>
       <hotspot tilt="60.28" target="_blank" pan="-279.71" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="7.42" target="_blank" pan="-59.7" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5331,6 +5389,7 @@
         <polystring>-157.67/-23.88|-165.56/-24.63|-163.12/-29.75|-124.92/-34.59|-116.61/-23.39|-136.13/-18.67|-146.68/-24.06</polystring>
       </polyhotspot>
       <hotspot tilt="57.79" target="_blank" pan="-84.41" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="-1.41" target="_blank" pan="-79.16" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5384,6 +5443,7 @@
         <polystring>-216.89/19.97|-217.38/-31.02|-237.39/-41.38|-236.83/27.74</polystring>
       </polyhotspot>
       <hotspot tilt="46.74" target="_blank" pan="-1.5" title="" url="" description="" id="Point01" skinid="에어컨1"/>
+      <hotspot tilt="0.29" target="_blank" pan="-45.8" title="" url="" description="" id="Point02" skinid=" 푯말-실외기실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5436,7 +5496,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="0" projection="4" tilt="0" fov="117.015"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -5461,7 +5521,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="-178.879" projection="4" tilt="-42.5598" fov="126.58"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -5486,7 +5546,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="0.400528" projection="4" tilt="-8.60888" fov="136.926"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -5495,7 +5555,7 @@
     <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
       <label backgroundalpha="1" borderradius="1" bordercolor="0x000000" width="180" height="20" enabled="1" background="1" textcolor="0x000000" wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" border="1"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot tilt="-55.54" target="_blank" pan="-2.91001" title="" url="" description="" id="Point01" skinid="ht_url"/>
+      <hotspot tilt="-55.54" target="_blank" pan="-2.91" title="" url="" description="" id="Point01" skinid="돌아가기-침실"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" softedge="0" enabled="1" zoomoutpause="1" blendtime="1" delay="none" zoomafterinfov="140" type="crossdissolve" zoomfov="40"/>
@@ -5511,7 +5571,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="-0.820392" projection="4" tilt="-0.329465" fov="117.846"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -5536,7 +5596,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="1.03997" projection="4" tilt="-46.718" fov="126.58"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
@@ -5561,7 +5621,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <start pan="0.159231" projection="4" tilt="-0.211367" fov="136.926"/>
       <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140"/>
